@@ -38,7 +38,7 @@ const Header = () => {
           </div>
 
           <div className="tag-cmp app__flex" style={{cursor:'pointer'}}>
-          <a style={{textDecoration:'none'}} target = "_blank"href="https://drive.google.com/file/d/1QXe62FALW81cZcBNJXTvbjhxLrF31GWC/view?usp=sharing" className="p-text">Download Resume</a>
+          <a style={{textDecoration:'none'}} target = "_blank"href="https://drive.google.com/file/d/1B0ozW-FeRuvYV9d0wciWoKUngBEZkWY1/view?usp=sharing" className="p-text">Download Resume</a>
           </div>
 
           {/* Conditionally render the circles based on width */}

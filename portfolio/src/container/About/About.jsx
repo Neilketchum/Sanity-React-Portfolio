@@ -21,7 +21,7 @@ const About = () => {
       <h2 className="head-text">Great programming  <span>isn't about writing lines of code.</span> <br/>  It's about solving problems and  <span>making a difference.</span></h2>
 
       <div className="app__profiles">
-        {abouts.map((about, index) => (
+        {abouts.map((about, index) => (console.log(about),
           <motion.div
             whileInView={{ opacity: 1 }}
             whileHover={{ scale: 1.1 }}

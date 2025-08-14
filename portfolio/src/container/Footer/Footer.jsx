@@ -50,7 +50,7 @@ const Footer = () => {
         </div>
         <div className="app__footer-card">
           <img src={images.download} alt="phone" target="_blank" />
-          <a href="https://drive.google.com/file/d/1QXe62FALW81cZcBNJXTvbjhxLrF31GWC/view?usp=sharing" className="p-text">Download Resume</a>
+          <a href="https://drive.google.com/file/d/1B0ozW-FeRuvYV9d0wciWoKUngBEZkWY1/view?usp=sharing" className="p-text">Download Resume</a>
         </div>
       </div>
       {!isFormSubmitted ? (
